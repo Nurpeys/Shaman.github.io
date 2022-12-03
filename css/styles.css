@@ -8,7 +8,7 @@ body {
 }
 
 img {
-  border-radius: auto;
+  border-radius: block;
   padding: 15px;
   width: 10%;
 
