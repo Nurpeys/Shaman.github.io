@@ -157,9 +157,9 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
 /* --------------TELEGRAM--------------------------------------- */
 
 
-/* --------------LIN--------------------------------------- */
+/* --------------VK--------------------------------------- */
 
-.links-linkedin{
+.links-vk{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -173,7 +173,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   font-size: 15px;
 }
 
-.links-linkedin:hover{
+.links-vk:hover{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -187,7 +187,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   font-size: 15px;
   color: white;
 }
-/* --------------LIN--------------------------------------- */
+/* --------------VK--------------------------------------- */
 
 
 
