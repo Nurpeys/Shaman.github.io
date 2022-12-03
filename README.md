@@ -22,7 +22,7 @@
 
 
     <script src="script.js"></script>
-    <img class="profile-picture" src="https://https://github.com/Nurpeys/Shaman.github.io/blob/main/8e071836dc5d3f534138455fda54cc68.gif?raw=true" alt=" Profile Picture :)" >
+    <img class="profile-picture" src="https://github.com/Nurpeys/Shaman.github.io/blob/main/8e071836dc5d3f534138455fda54cc68.gif?raw=true" alt=" Profile Picture :)" >
  
  
 
