@@ -19,9 +19,9 @@
 
 
 
-/* --------------YOUTUBE--------------------------------------- */
+/* --------------WHATSAPP--------------------------------------- */
 
-.links-youtube{
+.links-whatsapp{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -35,7 +35,7 @@
   font-size: 15px;
 }
 
-.links-youtube:hover{
+.links-whatsapp:hover{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -51,7 +51,7 @@
   font-size: 15px;
   color: white;
 }
-/* --------------YOUTUBE--------------------------------------- */
+/* --------------WHATSAPP--------------------------------------- */
 
 
 /* --------------GITHUB--------------------------------------- */
