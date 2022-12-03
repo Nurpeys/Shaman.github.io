@@ -34,7 +34,7 @@
         <a href="https://www.instagram.com/beketnurpeys/?hl=en" class="links-instagram"><i class="fab fa-instagram"></i> Instagram</a>
         <a href="https://t.me/Beketnurpeys" class="links-telegram"><i class="fab fa-telegram"></i> Telegram</a>
         <a href="mailto:nur_peys@bk.ru" class="links-mail"><i class="far fa-envelope"></i> Email</a>
-        <a href="https://vk.com/in/n.beket2000" class="links-vk"><i class="fab fa-vk-in"></i> VK</a>
+        <a href="https://vk.com/id/n.beket2000" class="links-vk"><i class="fab fa-vk-in"></i> VK</a>
        
 
 
