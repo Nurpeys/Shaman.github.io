@@ -122,9 +122,9 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
 /* --------------INSTAGRAM--------------------------------------- */
 
 
-/* --------------TWITTER--------------------------------------- */
+/* --------------TELEGRAM--------------------------------------- */
 
-.links-twitter{
+.links-telegram{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -138,7 +138,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   font-size: 15px;
 }
 
-.links-twitter:hover{
+.links-telegram:hover{
   text-align: center;
   margin-top: 20px;
   padding: 20px;
@@ -154,7 +154,7 @@ background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+
   font-size: 15px;
   color: white;
 }
-/* --------------TWITTER--------------------------------------- */
+/* --------------TELEGRAM--------------------------------------- */
 
 
 /* --------------LIN--------------------------------------- */
