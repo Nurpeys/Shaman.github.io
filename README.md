@@ -22,7 +22,7 @@
 
 
     <script src="script.js"></script>
-    <img class="profile-picture" src="https://avatars.githubusercontent.com/u/70090469?v=4" alt=" Profile Picture :)" >
+    <img class="profile-picture" src="https://github.com/Nurpeys/Shaman.github.io/blob/main/7zoU.gif?raw=true" alt=" Profile Picture :)" >
  
  
 
@@ -32,7 +32,7 @@
         <a href="https://github.com//Nurpeys" class="links-github"><i class="fab fa-github"></i> Github</a>
         <a href="https://www.youtube.com/channel/UCiUPOk8VzctO6ODwr_A5NaQ?sub_confirmation=1" class="links-youtube"><i class="fab fa-youtube" ></i> Youtube</a>
         <a href="https://www.instagram.com/beketnurpeys/?hl=en" class="links-instagram"><i class="fab fa-instagram"></i> Instagram</a>
-        <a href="https://t.me/Beketnurpeys" class="links-twitter"><i class="fab fa-twitter"></i> Twitter</a>
+        <a href="https://t.me/Beketnurpeys" class="links-telegram"><i class="fab fa-telegram"></i> Twitter</a>
         <a href="mailto:nur_peys@bk.ru" class="links-mail"><i class="far fa-envelope"></i> Email</a>
         <a href="https://www.linkedin.com/in/shreyas-bhike-a44718169" class="links-linkedin"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
        
