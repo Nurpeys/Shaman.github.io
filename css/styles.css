@@ -17,7 +17,7 @@ img {
 
 
 .profile-picture {
-  display: #000000;    
+  display: block;    
   margin-left: auto;
   margin-right: auto;
   width: 40%;
