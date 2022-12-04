@@ -22,7 +22,7 @@
 
 
     <script src="script.js"></script>
-    <img class="profile-picture" src="https://github.com/Nurpeys/Shaman.github.io/blob/main/Beket.jpg?raw=true" alt=" Profile Picture :)" >
+    <img class="profile-picture" src="https://igate.com.ua/upload/photo/0001/0001/2720/0848/38.jpg" alt=" Profile Picture :)" >
  
  
 
