@@ -30,7 +30,7 @@
 
     <!-- Links-->
         <a href="https://github.com//Nurpeys" class="links-github"><i class="fab fa-github"></i> Github</a>
-        <a href="https://api.whatsapp.com/wa.me/77477837943" class="links-whatsapp"><i class="fab fa-whatsapp" ></i> Whatsapp</a>
+        <a href="https://wa.me/77477837943" class="links-whatsapp"><i class="fab fa-whatsapp" ></i> Whatsapp</a>
         <a href="https://www.instagram.com/beketnurpeys/?hl=en" class="links-instagram"><i class="fab fa-instagram"></i> Instagram</a>
         <a href="https://t.me/Beketnurpeys" class="links-telegram"><i class="fab fa-telegram"></i> Telegram</a>
         <a href="mailto:nur_peys@bk.ru" class="links-mail"><i class="far fa-envelope"></i> Email</a>
