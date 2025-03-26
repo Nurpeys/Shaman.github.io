@@ -41,7 +41,6 @@
 
     <div class="bottom-text"><p class="copyright">2025 © <a href="https://www.instagram.com/beketnurpeys/?hl=en">The App Wizard</a></p></div>
 
- index.htnl
 </body>
 </html>
 
