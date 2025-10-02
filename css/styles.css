@@ -1,80 +1,84 @@
 body {
-  background: #000000;
-  color: #fff;
-  font-family: 'Open Georgia' serif;;
-  font-size: 15px;
-  letter-spacing: 2px;
-  
+  background: #f9f9f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
-img {
-  border-radius: 50%;
-  padding: 15px;
-  width: 10%;
-
+/* Profile */
+.profiledata {
+  margin-top: 40px;
 }
-
-
 
 .profile-picture {
-  display: block;    
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  box-shadow: 0px 4px 20px rgba(0,0,0,0.2);
 }
 
-
-
-.profiledata{
-    padding: 20px;
-}
-
-
-.profile-name{
-  color: gray;
-    font-family: sans-serif;
-    text-align: center;
-    font-size: 20px;
-   
+.profile-name {
+  font-size: 18px;
+  color: #666;
 }
 
 .profile-name2 {
-    font-family: sans-serif;
-    text-align: center;
-    font-size: 30px;
-    padding: 5px;
+  font-size: 28px;
+  font-weight: bold;
+  color: #222;
+  margin: 5px 0;
 }
-
-
 
 .profile-name3 {
-  color: gray;
-  font-family: sans-serif;
-  text-align: center;
   font-size: 20px;
+  color: #444;
 }
 
-
-.profile-name3  span{
-  color: white;
-  font-weight: 500;
-}
-
-.bottom-text {
-  padding: 20px;
-  text-align: center;
-  margin-top: 40px;
-  font-size: 15px;
-}
-
-
-
-a {
+/* Links */
+.links a {
+  display: block;
+  margin: 12px auto;
+  padding: 12px 20px;
+  width: 250px;
+  border-radius: 10px;
   text-decoration: none;
-  color: white;
-  transition: color 1s; 
+  font-size: 18px;
+  color: #fff;
+  transition: 0.3s;
 }
 
-.copyright{
-  color: gray;
+.links-github { background: #333; }
+.links-whatsapp { background: #25D366; }
+.links-instagram { background: #E4405F; }
+.links-telegram { background: #0088cc; }
+.links-mail { background: #ff6600; }
+.links-vk { background: #4c75a3; }
+
+.links a:hover {
+  transform: scale(1.05);
+  opacity: 0.85;
+}
+
+/* Footer */
+.bottom-text {
+  margin-top: 40px;
+  padding: 10px;
+}
+
+.bottom-text a {
+  color: #222;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Responsive */
+@media screen and (max-width: 600px) {
+  .profile-name2 {
+    font-size: 22px;
+  }
+  .links a {
+    width: 90%;
+  }
 }
